@@ -52,6 +52,19 @@ papers:
         src: https://inria.hal.science/hal-04406342/document
 ```
 
+## Master's thesis
+
+```yaml {.paper}
+title: "Mixing classical and intuitionistic constructiveness: a formulae-as-types interpretation for classical S4 modal logic and second-class continuations"
+author: Jean Caspar
+year: 2025
+files:
+  - text: Thesis
+    type: pdf
+    src: files/CASPAR_Jean_rapport_M2_MPRI.pdf
+```
+
+
 # Education
 
 - 2022-2026: ENS Ulm
