@@ -31,7 +31,7 @@ I am a 4th year student at ENS Ulm student, working on computer science on logic
 
 # Internships
 
-- October--February 2025: Continuity properties of partial recursive functions in constructive mathematics with Yannick Forster at INRIA Paris
+- October 2025--February 2026: Continuity properties of partial recursive functions in constructive mathematics with Yannick Forster at INRIA Paris
 - Mars--August 2025: Mixing classical and intuitionistic constructiveness: a formulae-as-types interpretation for classical S4 modal logic and second-class continuations with Guillaume Munch-Maccagnoni in Nantes
 - Mars--July 2024: Modal fixed point and category theory with Marcelio Fiore in Cambridge
 - June--July 2023: Modular efficient deconstruction with typed pointer reversal with Guillaume Munch-Maccagnoni in Nantes
@@ -52,6 +52,8 @@ papers:
         src: https://inria.hal.science/hal-04406342/document
 ```
 
+# Other works
+
 ## Master's thesis
 
 ```yaml {.paper}
@@ -64,6 +66,23 @@ files:
     src: files/CASPAR_Jean_rapport_M2_MPRI.pdf
 ```
 
+## October 2025-February 2026 internship's report
+
+```yaml {.paper}
+title: "A Zoo of Partial Continuity Properties in Constructive Type Theory"
+author: Jean Caspar
+year: 2026
+files:
+  - text: Report
+    type: pdf
+    src: files/partial_continuity.pdf
+  - text: Formalization
+    type: code
+    src: rocq/partial_continuity/
+  - text: Github
+    type: code
+    src: https://github.com/inria-cambium/internship-caspar
+```
 
 # Education
 
