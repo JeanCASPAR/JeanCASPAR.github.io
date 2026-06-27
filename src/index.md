@@ -78,7 +78,7 @@ files:
     src: files/partial_continuity.pdf
   - text: Formalization
     type: code
-    src: rocq/partial_continuity/
+    src: rocq/partial_continuity/Continuity.Partial.TreeFunction.html
   - text: Github
     type: code
     src: https://github.com/inria-cambium/internship-caspar
